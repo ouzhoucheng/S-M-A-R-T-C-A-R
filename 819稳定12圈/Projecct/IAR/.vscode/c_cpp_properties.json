@@ -1,0 +1,28 @@
+{
+    "configurations": [
+        {
+            "name": "Win32",
+            "includePath": [
+                "${workspaceFolder}/**",
+                "G:/C_code/VScode/MinGW/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/11.1.0/include/c++",
+                "G:/C_code/VScode/MinGW/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/11.1.0/include/c++/x86_64-w64-mingw32",
+                "G:/C_code/VScode/MinGW/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/11.1.0/include/c++/backward",
+                "G:/C_code/VScode/MinGW/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/11.1.0/include",
+                "G:/C_code/VScode/MinGW/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/11.1.0/include-fixed",
+                "G:/C_code/VScode/MinGW/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/11.1.0/../../../../x86_64-w64-mingw32/include",
+                "G:/C_code/VScode/MinGW/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/11.1.0/include",
+                "G:/C_code/VScode/MinGW/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/11.1.0/include-fixed"
+            ],
+            "defines": [
+                "_DEBUG",
+                "UNICODE",
+                "_UNICODE"
+            ],
+            "compilerPath": "G:\\C_code\\VScode\\MinGW\\mingw64\\bin\\gcc.exe",
+            "cStandard": "gnu17",
+            "cppStandard": "gnu++17",
+            "intelliSenseMode": "windows-gcc-x64"
+        }
+    ],
+    "version": 4
+}

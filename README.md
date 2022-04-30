@@ -1,5 +1,5 @@
 # smart-car-1st-2021
-we get 1st prize in national finals -- 16th chinese intelligent car racing
+[VIDEO: we get 1st prize in national finals -- 16th chinese intelligent car racing](https://www.bilibili.com/video/BV1tL4y1T7xn/)
 
 <img src="Certificate_NationalFinals.jpg" width = 30% height = 30% div align=right />
 

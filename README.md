@@ -1,5 +1,7 @@
 # smart-car-1st-2021
 we get 1st prize in national finals -- 16th chinese intelligent car racing
+![](Certificate_NationalFinals.jpg)
+![](Certificate_NorthChina.jpg)
 
 # 16届智能视觉组-摄像头算法
 底层搜线算法是往届学长写的,我们的主要工作在于各个元素的检测,这也是本篇重点讲解部分,代码很多很乱很复杂,建议跟随本篇的顺序来阅读,移植.

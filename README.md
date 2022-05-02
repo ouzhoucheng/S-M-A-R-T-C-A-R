@@ -1,6 +1,5 @@
 # smart-car-1st-2021
 [VIDEO: we get 1st prize in national finals -- 16th chinese intelligent car racing](https://www.bilibili.com/video/BV1tL4y1T7xn/)
-![识别与射击靶心](photo/identificate&shoot.gif)
 
 <img src="photo/Certificate_NationalFinals.jpg" width = 30% height = 30% div align=right />
 
@@ -12,9 +11,9 @@
 
 出库入库处理部分参考文件`国赛改规则前805准备移植wifi`,其他参考文件`国赛819稳定12圈（RT1064总钻风巡线）`,最关键的文件是`camera_process.c`,建议结合代码阅读.
 
-**注意**这套代码是根据我们的装车情况写的,各个元素可调参数的经验值见文件`setpara.c`,摄像头高31.5cm,倾角可通过逆透视结果来校准(左右边沿平行).参数有前缀分类(如O.开头是圆环相关参数,Y.开头与三岔路有关).
+![识别与射击靶心](photo/identificate&shoot.gif)
 
-有疑问可联系 16届视觉组 区梓川 QQ 572729767
+**注意**这套代码是根据我们的装车情况写的,各个元素可调参数的经验值见文件`setpara.c`,摄像头高31.5cm,倾角可通过逆透视结果来校准(左右边沿平行).参数有前缀分类(如O.开头是圆环相关参数,Y.开头与三岔路有关).
 
 ![请添加图片描述](https://img-blog.csdnimg.cn/9386d9af6b89482b9a7c03ae48e2dc70.gif)
 

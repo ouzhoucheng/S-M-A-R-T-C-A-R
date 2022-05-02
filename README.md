@@ -1,10 +1,10 @@
 # smart-car-1st-2021
 [VIDEO: we get 1st prize in national finals -- 16th chinese intelligent car racing](https://www.bilibili.com/video/BV1tL4y1T7xn/)
+![识别与射击靶心](photo/identificate&shoot.gif)
 
-<img src="Certificate_NationalFinals.jpg" width = 30% height = 30% div align=right />
+<img src="photo/Certificate_NationalFinals.jpg" width = 30% height = 30% div align=right />
 
-<img src="Certificate_NorthChina.jpg" width = 30% height = 30% div align=right />
-
+<img src="photo/Certificate_NorthChina.jpg" width = 30% height = 30% div align=right />
 
 
 # 16届智能视觉组-摄像头算法

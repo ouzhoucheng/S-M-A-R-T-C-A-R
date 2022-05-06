@@ -7,8 +7,8 @@
 
 阅读
 - 摄像头算法(本文README.md)
-- 摄像头算法2(二值化&搜线&逆透视&方向).md
-- 简易上位机.md
+- [摄像头算法2](https://github.com/ouzhoucheng/smart-car-1st-2021/blob/main/%E6%91%84%E5%83%8F%E5%A4%B4%E7%AE%97%E6%B3%952(%E4%BA%8C%E5%80%BC%E5%8C%96%26%E6%90%9C%E7%BA%BF%26%E9%80%86%E9%80%8F%E8%A7%86%26%E6%96%B9%E5%90%91).md)
+- [简易上位机](https://github.com/ouzhoucheng/smart-car-1st-2021/blob/main/16%E5%B1%8A%E6%99%BA%E8%83%BD%E8%A7%86%E8%A7%89%E7%BB%84-%E7%AE%80%E6%98%93%E4%B8%8A%E4%BD%8D%E6%9C%BA.md)
 
 
 # 16届智能视觉组-摄像头算法

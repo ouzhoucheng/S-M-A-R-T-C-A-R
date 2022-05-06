@@ -5,6 +5,11 @@
 
 <img src="photo/Certificate_NorthChina.jpg" width = 30% height = 30% div align=right />
 
+阅读
+- 摄像头算法(本文README.md)
+- 摄像头算法2(二值化&搜线&逆透视&方向).md
+- 简易上位机.md
+
 
 # 16届智能视觉组-摄像头算法
 

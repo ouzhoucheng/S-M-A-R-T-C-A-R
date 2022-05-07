@@ -17,6 +17,8 @@
 
 ![识别与射击靶心](photo/identificate&shoot.gif)
 
+![](photo/car.jpg)
+
 **注意**这套代码是根据我们的装车情况写的,各个元素可调参数的经验值见文件`setpara.c`,摄像头高31.5cm,倾角可通过逆透视结果来校准(左右边沿平行).参数有前缀分类(如O.开头是圆环相关参数,Y.开头与三岔路有关).
 
 ![请添加图片描述](https://img-blog.csdnimg.cn/9386d9af6b89482b9a7c03ae48e2dc70.gif)
